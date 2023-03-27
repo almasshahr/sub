@@ -1,0 +1,2 @@
+vless://b79e4323-f6f2-48fe-c5d1-672e33f0932f@mc.fasted-tiger.click:443?encryption=none&security=tls&sni=account.sweden2-tiger.tk&type=ws&host=account.sweden2-tiger.tk&path=%2Ftiger%2F54981#vless
+vless://7168cda8-ea3c-420e-cc63-bd066dce13cc@mc.fasted-tiger.click:443?encryption=none&security=tls&sni=account.sweden2-tiger.tk&type=grpc&serviceName=grpc31047&mode=gun#grpc
